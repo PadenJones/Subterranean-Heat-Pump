@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*/
+!*.ino
+!*.h
+!*.pde
